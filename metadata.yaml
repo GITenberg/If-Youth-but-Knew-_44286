@@ -1,0 +1,42 @@
+_repo: If-Youth-but-Knew-_44286
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Speed, Lancelot
+    birthdate: 1860
+    deathdate: 1931
+    gutenberg_agent_id: '9847'
+    url: http://www.gutenberg.org/2009/agents/9847
+    wikipedia: http://en.wikipedia.org/wiki/Lancelot_Speed
+covers:
+- cover_type: archival
+  image_path: 44286-h/images/img-cover.jpg
+creator:
+  authors:
+  - agent_name: Castle, Egerton
+    birthdate: 1858
+    deathdate: 1920
+    gutenberg_agent_id: '4570'
+    url: http://www.gutenberg.org/2009/agents/4570
+  - agent_name: Castle, Agnes
+    aliases:
+    - Castle, Agnes Sweetman
+    - Sweetman, Agnes
+    deathdate: 1922
+    gutenberg_agent_id: '42676'
+    url: http://www.gutenberg.org/2009/agents/42676
+description: ''
+gutenberg_issued: '2013-11-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44286'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Jérôme Bonaparte, King of Westphalia, 1784-1860 -- Fiction'
+- !lcsh 'Westphalia (Kingdom) -- Fiction'
+- !lcc 'PR'
+title: '"If Youth but Knew!"'
+url: http://www.gutenberg.org/ebooks/44286
