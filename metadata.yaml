@@ -26,6 +26,8 @@ creator:
     gutenberg_agent_id: '42676'
     url: http://www.gutenberg.org/2009/agents/42676
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44286#If-Youth-but-Knew-
 gutenberg_issued: '2013-11-25'
 gutenberg_type: Text
 identifiers:
